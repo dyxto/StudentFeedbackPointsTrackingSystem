@@ -30,3 +30,13 @@ g. Evaluation Criteria:\
 Use dialog – geeksForgeeks.org/shell-scripting-dialog-boxes. 
 
 **This is a straight Unix shell scripting hence there’ll be no need for backup development.**
+
+# How to use
+
+1. Ensure your UNIX/Linux operating system shell can run **dialog boxes** 
+2. Ensure **users.txt** contains the necessary user accounts (usernames)
+3. Run the **START_PROGRAM** script from within the project folder
+
+# Future Work
+1. User Account Database implementation (Local) 
+2. Backend Server & Database implementation (Online/Cloud)
