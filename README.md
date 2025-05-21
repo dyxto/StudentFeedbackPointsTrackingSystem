@@ -1,5 +1,6 @@
-# StudentFeedbackPointsTrackingSystem
-Student Feedback Points and Tracking System.\
+# Student Feedback Points and Tracking System
+
+**Project Objective:**\
 Develop a console system that allows the course instructor to track student’s active feedback progress. 
 
 **Key Features:**\
